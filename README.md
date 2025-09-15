@@ -11,20 +11,20 @@ This is what [G3CE](https://github.com/G3Dev-0/G3CE) actually is... or I'd like 
 You can contribute to any of my projects of course... just open a pull request, collaboration can make programming even funnier!
 
 ## My best projects:
-+ **[G3CE](https://github.com/G3Dev-0/G3CE):** a C and OpenGL based rendering/game/simulation engine
++ **[G3CE](https://github.com/G3Dev-0/G3CE):** a C and OpenGL based rendering/game/simulation engine (still working on it)
 + **[PyLab](https://github.com/G3Dev-0/pylab):** a scientific data analysis and plotting library made with python, matplotlib, numpy and scipy
 + **[G3GE](https://github.com/G3Dev-0/G3GE_2D):** a Java 2D game engine I used to make some of my games in the past five years (see, for example, [The Island on itch.io](https://g3dev.itch.io/the-island))
 
 ## My tech stack
 ### Programming Languages
 + **Java (7 years experience):** using abstraction, inheritance, polymorphism and encapsulation to make simple videogames and G3GE, a 2D game engine I made using pure Java
-+ **python (4 years experience):** used for automating tasks and to create a data analysis and plotting library
-+ **C (still a newbie, but I'm learning it!):** used for scientific calculations and for creating G3CE a (wannabe) rendering/game/simulation engine
++ **python (4 years experience):** used for automating tasks and to create a data analysis and plotting library ([PyLab](https://github.com/G3Dev-0/pylab))
++ **C (almost a year):** used for scientific calculations and for creating [G3CE](https://github.com/G3Dev-0/G3CE)
 
 ### Libraries I have worked with
 + **LWJGL (a couple months):** used to make a proof of concept doom-styled game you can find [here](https://g3dev.itch.io/3d-opengl-game)
 + **LibGDX (2 years):** used to create a videogame about making sandwiches (you can [play it on your browser](https://g3dev.itch.io/sandwich-restaurant-simulator))
-+ **OpenGL:** I know the basics, now I'm strenghtening these foundations
++ **OpenGL:** I know the basics and I am still learning it
 
 ### Other tools
 + **LaTeX** (1 year experience)
