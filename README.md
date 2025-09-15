@@ -5,8 +5,8 @@ I learned Java and python as a self-taught, using the first to create various vi
 I use python almost on a daily basis to create little scripts that automate simple but repetitive tasks (see for example the [Markdown-TOC-generator](https://github.com/G3Dev-0/Markdown-TOC-Generator)).\
 Using python I am also maintaining [PyLab](https://github.com/G3Dev-0/pylab) a library that can be used to rapidly analyze and plot data from school and university laboratory experiments.\
 
-I have always been fascinated by the exciting world of OpenGL and rendering engines, and lately I have been delving into this world... while learning C of course... to make things easier :))\
-This is what [G3CE](https://github.com/G3Dev-0/G3CE) actually is... or I'd like it to be: a rendering/game/simulation engine.
+I have always been fascinated by the exciting world of OpenGL and rendering engines, and lately I have been delving into this world while also learning the C programming language.\
+To put these knowledge into practice I am working on [G3CE](https://github.com/G3Dev-0/G3CE) a projet I would like to turn into a user friendly rendering/game/simulation engine.
 
 You can contribute to any of my projects of course... just open a pull request, collaboration can make programming even funnier!
 
