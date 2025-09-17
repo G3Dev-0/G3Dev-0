@@ -2,7 +2,7 @@
 ## About me
 Hi, I like programming!\
 I learned Java and python as a self-taught, using the first to create various videogames (see [my itch.io profile](https://g3dev.itch.io/)) and a 2D game engine called [G3GE](https://github.com/G3Dev-0/G3GE_2D).\
-I use python almost on a daily basis to create little scripts that automate simple but repetitive tasks (see for example the [Markdown-TOC-generator](https://github.com/G3Dev-0/Markdown-TOC-Generator)).\
+I use python almost on a daily basis to create little scripts that automate simple but repetitive tasks (see for example the [Markdown-TOC-generator](https://github.com/G3Dev-0/Markdown-TOC-Generator) or the [Fun with Python series](https://github.com/G3Dev-0/FunWithPython)).\
 Using python I am also maintaining [PyLab](https://github.com/G3Dev-0/pylab) a library that can be used to rapidly analyze and plot data from school and university laboratory experiments.\
 
 I have always been fascinated by the exciting world of OpenGL and rendering engines, and lately I have been delving into this world while also learning the C programming language.\
